@@ -1,0 +1,9 @@
+requests
+lxml
+snowflake-connector-python
+pandas
+structlog
+pytest
+black
+flake8
+pre-commit

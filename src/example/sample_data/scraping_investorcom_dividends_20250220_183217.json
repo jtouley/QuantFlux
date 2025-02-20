@@ -1,0 +1,158 @@
+[
+    {
+        "id": "1317263e-7f36-49f0-880b-2da1326567cb",
+        "sourcename": "investing.com_dividends",
+        "uploaded_at": "2025-02-20T18:32:17.667648",
+        "raw_data": "{\"metadata\": {\"column_names\": [\"placeholder\", \"Company\", \"Ex-Dividend Date\", \"Dividend\", \"Type\", \"Payment Date\", \"Yield\"], \"dtypes\": {\"placeholder\": \"object\", \"Company\": \"object\", \"Ex-Dividend Date\": \"object\", \"Dividend\": \"object\", \"Type\": \"object\", \"Payment Date\": \"object\", \"Yield\": \"object\"}}, \"data\": {\"placeholder\": NaN, \"Company\": \"Microsoft\\u00a0(MSFT)\", \"Ex-Dividend Date\": \"Feb 20, 2025\", \"Dividend\": \"0.83\", \"Type\": NaN, \"Payment Date\": \"Mar 13, 2025\", \"Yield\": \"0.81%\"}}"
+    },
+    {
+        "id": "00503b17-022f-4cac-ab54-a1058070952b",
+        "sourcename": "investing.com_dividends",
+        "uploaded_at": "2025-02-20T18:32:17.667713",
+        "raw_data": "{\"metadata\": {\"column_names\": [\"placeholder\", \"Company\", \"Ex-Dividend Date\", \"Dividend\", \"Type\", \"Payment Date\", \"Yield\"], \"dtypes\": {\"placeholder\": \"object\", \"Company\": \"object\", \"Ex-Dividend Date\": \"object\", \"Dividend\": \"object\", \"Type\": \"object\", \"Payment Date\": \"object\", \"Yield\": \"object\"}}, \"data\": {\"placeholder\": NaN, \"Company\": \"Applied Materials\\u00a0(AMAT)\", \"Ex-Dividend Date\": \"Feb 20, 2025\", \"Dividend\": \"0.4\", \"Type\": NaN, \"Payment Date\": \"Mar 13, 2025\", \"Yield\": \"0.95%\"}}"
+    },
+    {
+        "id": "031c291b-6118-4e07-9f40-9d120444d310",
+        "sourcename": "investing.com_dividends",
+        "uploaded_at": "2025-02-20T18:32:17.667754",
+        "raw_data": "{\"metadata\": {\"column_names\": [\"placeholder\", \"Company\", \"Ex-Dividend Date\", \"Dividend\", \"Type\", \"Payment Date\", \"Yield\"], \"dtypes\": {\"placeholder\": \"object\", \"Company\": \"object\", \"Ex-Dividend Date\": \"object\", \"Dividend\": \"object\", \"Type\": \"object\", \"Payment Date\": \"object\", \"Yield\": \"object\"}}, \"data\": {\"placeholder\": NaN, \"Company\": \"CenterPoint Energy\\u00a0(CNP)\", \"Ex-Dividend Date\": \"Feb 20, 2025\", \"Dividend\": \"0.22\", \"Type\": NaN, \"Payment Date\": \"Mar 13, 2025\", \"Yield\": \"2.63%\"}}"
+    },
+    {
+        "id": "820d7916-ae6a-4060-a214-9fc0b70eb27d",
+        "sourcename": "investing.com_dividends",
+        "uploaded_at": "2025-02-20T18:32:17.667787",
+        "raw_data": "{\"metadata\": {\"column_names\": [\"placeholder\", \"Company\", \"Ex-Dividend Date\", \"Dividend\", \"Type\", \"Payment Date\", \"Yield\"], \"dtypes\": {\"placeholder\": \"object\", \"Company\": \"object\", \"Ex-Dividend Date\": \"object\", \"Dividend\": \"object\", \"Type\": \"object\", \"Payment Date\": \"object\", \"Yield\": \"object\"}}, \"data\": {\"placeholder\": NaN, \"Company\": \"LTC Properties\\u00a0(LTC)\", \"Ex-Dividend Date\": \"Feb 20, 2025\", \"Dividend\": \"0.19\", \"Type\": NaN, \"Payment Date\": \"Feb 28, 2025\", \"Yield\": \"6.62%\"}}"
+    },
+    {
+        "id": "b8ed36ea-07fc-4d4c-8842-3fd4bd2966d1",
+        "sourcename": "investing.com_dividends",
+        "uploaded_at": "2025-02-20T18:32:17.667817",
+        "raw_data": "{\"metadata\": {\"column_names\": [\"placeholder\", \"Company\", \"Ex-Dividend Date\", \"Dividend\", \"Type\", \"Payment Date\", \"Yield\"], \"dtypes\": {\"placeholder\": \"object\", \"Company\": \"object\", \"Ex-Dividend Date\": \"object\", \"Dividend\": \"object\", \"Type\": \"object\", \"Payment Date\": \"object\", \"Yield\": \"object\"}}, \"data\": {\"placeholder\": NaN, \"Company\": \"CBRE Clarion Global Real Estateome\\u00a0(IGR)\", \"Ex-Dividend Date\": \"Feb 20, 2025\", \"Dividend\": \"0.06\", \"Type\": NaN, \"Payment Date\": \"Feb 28, 2025\", \"Yield\": \"13.53%\"}}"
+    },
+    {
+        "id": "3c5bece2-5d08-483f-80d1-bbd42be784ff",
+        "sourcename": "investing.com_dividends",
+        "uploaded_at": "2025-02-20T18:32:17.667846",
+        "raw_data": "{\"metadata\": {\"column_names\": [\"placeholder\", \"Company\", \"Ex-Dividend Date\", \"Dividend\", \"Type\", \"Payment Date\", \"Yield\"], \"dtypes\": {\"placeholder\": \"object\", \"Company\": \"object\", \"Ex-Dividend Date\": \"object\", \"Dividend\": \"object\", \"Type\": \"object\", \"Payment Date\": \"object\", \"Yield\": \"object\"}}, \"data\": {\"placeholder\": NaN, \"Company\": \"Siemens Healthineers ADR\\u00a0(SMMNY)\", \"Ex-Dividend Date\": \"Feb 20, 2025\", \"Dividend\": \"0.287937\", \"Type\": NaN, \"Payment Date\": \"Mar 07, 2025\", \"Yield\": \"0.96%\"}}"
+    },
+    {
+        "id": "9ae7d757-9ff8-4fc3-a607-ce34f0dd3bda",
+        "sourcename": "investing.com_dividends",
+        "uploaded_at": "2025-02-20T18:32:17.667873",
+        "raw_data": "{\"metadata\": {\"column_names\": [\"placeholder\", \"Company\", \"Ex-Dividend Date\", \"Dividend\", \"Type\", \"Payment Date\", \"Yield\"], \"dtypes\": {\"placeholder\": \"object\", \"Company\": \"object\", \"Ex-Dividend Date\": \"object\", \"Dividend\": \"object\", \"Type\": \"object\", \"Payment Date\": \"object\", \"Yield\": \"object\"}}, \"data\": {\"placeholder\": NaN, \"Company\": \"Discover\\u00a0(DFS)\", \"Ex-Dividend Date\": \"Feb 20, 2025\", \"Dividend\": \"0.7\", \"Type\": NaN, \"Payment Date\": \"Mar 06, 2025\", \"Yield\": \"1.43%\"}}"
+    },
+    {
+        "id": "05321a47-6c31-4b2d-ace8-0e3196ea887b",
+        "sourcename": "investing.com_dividends",
+        "uploaded_at": "2025-02-20T18:32:17.667900",
+        "raw_data": "{\"metadata\": {\"column_names\": [\"placeholder\", \"Company\", \"Ex-Dividend Date\", \"Dividend\", \"Type\", \"Payment Date\", \"Yield\"], \"dtypes\": {\"placeholder\": \"object\", \"Company\": \"object\", \"Ex-Dividend Date\": \"object\", \"Dividend\": \"object\", \"Type\": \"object\", \"Payment Date\": \"object\", \"Yield\": \"object\"}}, \"data\": {\"placeholder\": NaN, \"Company\": \"Bar Harbor Bankshares\\u00a0(BHB)\", \"Ex-Dividend Date\": \"Feb 20, 2025\", \"Dividend\": \"0.3\", \"Type\": NaN, \"Payment Date\": \"Mar 20, 2025\", \"Yield\": \"3.66%\"}}"
+    },
+    {
+        "id": "8b96acea-ff49-4800-9265-72ac92660b74",
+        "sourcename": "investing.com_dividends",
+        "uploaded_at": "2025-02-20T18:32:17.667925",
+        "raw_data": "{\"metadata\": {\"column_names\": [\"placeholder\", \"Company\", \"Ex-Dividend Date\", \"Dividend\", \"Type\", \"Payment Date\", \"Yield\"], \"dtypes\": {\"placeholder\": \"object\", \"Company\": \"object\", \"Ex-Dividend Date\": \"object\", \"Dividend\": \"object\", \"Type\": \"object\", \"Payment Date\": \"object\", \"Yield\": \"object\"}}, \"data\": {\"placeholder\": NaN, \"Company\": \"Imperial Brands\\u00a0(IMBBF)\", \"Ex-Dividend Date\": \"Feb 20, 2025\", \"Dividend\": \"54.26\", \"Type\": NaN, \"Payment Date\": \"Mar 31, 2025\", \"Yield\": \"4.74%\"}}"
+    },
+    {
+        "id": "612aed19-b211-43f1-b3b3-5ea0790857b3",
+        "sourcename": "investing.com_dividends",
+        "uploaded_at": "2025-02-20T18:32:17.667951",
+        "raw_data": "{\"metadata\": {\"column_names\": [\"placeholder\", \"Company\", \"Ex-Dividend Date\", \"Dividend\", \"Type\", \"Payment Date\", \"Yield\"], \"dtypes\": {\"placeholder\": \"object\", \"Company\": \"object\", \"Ex-Dividend Date\": \"object\", \"Dividend\": \"object\", \"Type\": \"object\", \"Payment Date\": \"object\", \"Yield\": \"object\"}}, \"data\": {\"placeholder\": NaN, \"Company\": \"Energizer\\u00a0(ENR)\", \"Ex-Dividend Date\": \"Feb 20, 2025\", \"Dividend\": \"0.3\", \"Type\": NaN, \"Payment Date\": \"Mar 13, 2025\", \"Yield\": \"3.87%\"}}"
+    },
+    {
+        "id": "8d647e07-bc08-4adc-ae81-4ff458fc8fa8",
+        "sourcename": "investing.com_dividends",
+        "uploaded_at": "2025-02-20T18:32:17.667975",
+        "raw_data": "{\"metadata\": {\"column_names\": [\"placeholder\", \"Company\", \"Ex-Dividend Date\", \"Dividend\", \"Type\", \"Payment Date\", \"Yield\"], \"dtypes\": {\"placeholder\": \"object\", \"Company\": \"object\", \"Ex-Dividend Date\": \"object\", \"Dividend\": \"object\", \"Type\": \"object\", \"Payment Date\": \"object\", \"Yield\": \"object\"}}, \"data\": {\"placeholder\": NaN, \"Company\": \"STERIS\\u00a0(STE)\", \"Ex-Dividend Date\": \"Feb 20, 2025\", \"Dividend\": \"0.57\", \"Type\": NaN, \"Payment Date\": \"Mar 21, 2025\", \"Yield\": \"1.04%\"}}"
+    },
+    {
+        "id": "5f3aec37-31bd-459e-a78a-c6c77f0029e9",
+        "sourcename": "investing.com_dividends",
+        "uploaded_at": "2025-02-20T18:32:17.668001",
+        "raw_data": "{\"metadata\": {\"column_names\": [\"placeholder\", \"Company\", \"Ex-Dividend Date\", \"Dividend\", \"Type\", \"Payment Date\", \"Yield\"], \"dtypes\": {\"placeholder\": \"object\", \"Company\": \"object\", \"Ex-Dividend Date\": \"object\", \"Dividend\": \"object\", \"Type\": \"object\", \"Payment Date\": \"object\", \"Yield\": \"object\"}}, \"data\": {\"placeholder\": NaN, \"Company\": \"Littelfuse\\u00a0(LFUS)\", \"Ex-Dividend Date\": \"Feb 20, 2025\", \"Dividend\": \"0.7\", \"Type\": NaN, \"Payment Date\": \"Mar 06, 2025\", \"Yield\": \"1.13%\"}}"
+    },
+    {
+        "id": "2dc1daf8-7cc7-4074-9c8a-e4d7213aa0ab",
+        "sourcename": "investing.com_dividends",
+        "uploaded_at": "2025-02-20T18:32:17.668025",
+        "raw_data": "{\"metadata\": {\"column_names\": [\"placeholder\", \"Company\", \"Ex-Dividend Date\", \"Dividend\", \"Type\", \"Payment Date\", \"Yield\"], \"dtypes\": {\"placeholder\": \"object\", \"Company\": \"object\", \"Ex-Dividend Date\": \"object\", \"Dividend\": \"object\", \"Type\": \"object\", \"Payment Date\": \"object\", \"Yield\": \"object\"}}, \"data\": {\"placeholder\": NaN, \"Company\": \"Materion\\u00a0(MTRN)\", \"Ex-Dividend Date\": \"Feb 20, 2025\", \"Dividend\": \"0.135\", \"Type\": NaN, \"Payment Date\": \"Mar 07, 2025\", \"Yield\": \"0.56%\"}}"
+    },
+    {
+        "id": "793b0fd7-1484-4cf9-9283-1950f3066a81",
+        "sourcename": "investing.com_dividends",
+        "uploaded_at": "2025-02-20T18:32:17.668049",
+        "raw_data": "{\"metadata\": {\"column_names\": [\"placeholder\", \"Company\", \"Ex-Dividend Date\", \"Dividend\", \"Type\", \"Payment Date\", \"Yield\"], \"dtypes\": {\"placeholder\": \"object\", \"Company\": \"object\", \"Ex-Dividend Date\": \"object\", \"Dividend\": \"object\", \"Type\": \"object\", \"Payment Date\": \"object\", \"Yield\": \"object\"}}, \"data\": {\"placeholder\": NaN, \"Company\": \"Zurn Water Solutions\\u00a0(ZWS)\", \"Ex-Dividend Date\": \"Feb 20, 2025\", \"Dividend\": \"0.09\", \"Type\": NaN, \"Payment Date\": \"Mar 07, 2025\", \"Yield\": \"1.01%\"}}"
+    },
+    {
+        "id": "a30fb93b-5ddb-4d79-b057-2f46359ccf3d",
+        "sourcename": "investing.com_dividends",
+        "uploaded_at": "2025-02-20T18:32:17.668073",
+        "raw_data": "{\"metadata\": {\"column_names\": [\"placeholder\", \"Company\", \"Ex-Dividend Date\", \"Dividend\", \"Type\", \"Payment Date\", \"Yield\"], \"dtypes\": {\"placeholder\": \"object\", \"Company\": \"object\", \"Ex-Dividend Date\": \"object\", \"Dividend\": \"object\", \"Type\": \"object\", \"Payment Date\": \"object\", \"Yield\": \"object\"}}, \"data\": {\"placeholder\": NaN, \"Company\": \"Paramount Resources\\u00a0(PRMRF)\", \"Ex-Dividend Date\": \"Feb 20, 2025\", \"Dividend\": \"0.0343089\", \"Type\": NaN, \"Payment Date\": \"Feb 28, 2025\", \"Yield\": \"1.84%\"}}"
+    },
+    {
+        "id": "42c08cf4-718d-4e87-b72c-0b347745fa7b",
+        "sourcename": "investing.com_dividends",
+        "uploaded_at": "2025-02-20T18:32:17.668097",
+        "raw_data": "{\"metadata\": {\"column_names\": [\"placeholder\", \"Company\", \"Ex-Dividend Date\", \"Dividend\", \"Type\", \"Payment Date\", \"Yield\"], \"dtypes\": {\"placeholder\": \"object\", \"Company\": \"object\", \"Ex-Dividend Date\": \"object\", \"Dividend\": \"object\", \"Type\": \"object\", \"Payment Date\": \"object\", \"Yield\": \"object\"}}, \"data\": {\"placeholder\": NaN, \"Company\": \"Woodward\\u00a0(WWD)\", \"Ex-Dividend Date\": \"Feb 20, 2025\", \"Dividend\": \"0.28\", \"Type\": NaN, \"Payment Date\": \"Mar 06, 2025\", \"Yield\": \"0.60%\"}}"
+    },
+    {
+        "id": "a56b284c-5133-4f8e-a84f-9d53d883dc50",
+        "sourcename": "investing.com_dividends",
+        "uploaded_at": "2025-02-20T18:32:17.668121",
+        "raw_data": "{\"metadata\": {\"column_names\": [\"placeholder\", \"Company\", \"Ex-Dividend Date\", \"Dividend\", \"Type\", \"Payment Date\", \"Yield\"], \"dtypes\": {\"placeholder\": \"object\", \"Company\": \"object\", \"Ex-Dividend Date\": \"object\", \"Dividend\": \"object\", \"Type\": \"object\", \"Payment Date\": \"object\", \"Yield\": \"object\"}}, \"data\": {\"placeholder\": NaN, \"Company\": \"FLEX LNG\\u00a0(FLNG)\", \"Ex-Dividend Date\": \"Feb 20, 2025\", \"Dividend\": \"0.75\", \"Type\": NaN, \"Payment Date\": \"Mar 05, 2025\", \"Yield\": \"12.08%\"}}"
+    },
+    {
+        "id": "982829f1-427a-4415-9e6c-5ce1b2dbf321",
+        "sourcename": "investing.com_dividends",
+        "uploaded_at": "2025-02-20T18:32:17.668145",
+        "raw_data": "{\"metadata\": {\"column_names\": [\"placeholder\", \"Company\", \"Ex-Dividend Date\", \"Dividend\", \"Type\", \"Payment Date\", \"Yield\"], \"dtypes\": {\"placeholder\": \"object\", \"Company\": \"object\", \"Ex-Dividend Date\": \"object\", \"Dividend\": \"object\", \"Type\": \"object\", \"Payment Date\": \"object\", \"Yield\": \"object\"}}, \"data\": {\"placeholder\": NaN, \"Company\": \"Regeneron Pharma\\u00a0(REGN)\", \"Ex-Dividend Date\": \"Feb 20, 2025\", \"Dividend\": \"0.88\", \"Type\": NaN, \"Payment Date\": \"Mar 20, 2025\", \"Yield\": \"0.52%\"}}"
+    },
+    {
+        "id": "9f6f8758-7dd3-4279-8014-55946de6c500",
+        "sourcename": "investing.com_dividends",
+        "uploaded_at": "2025-02-20T18:32:17.668169",
+        "raw_data": "{\"metadata\": {\"column_names\": [\"placeholder\", \"Company\", \"Ex-Dividend Date\", \"Dividend\", \"Type\", \"Payment Date\", \"Yield\"], \"dtypes\": {\"placeholder\": \"object\", \"Company\": \"object\", \"Ex-Dividend Date\": \"object\", \"Dividend\": \"object\", \"Type\": \"object\", \"Payment Date\": \"object\", \"Yield\": \"object\"}}, \"data\": {\"placeholder\": NaN, \"Company\": \"Thomson Reuters\\u00a0(TRI)\", \"Ex-Dividend Date\": \"Feb 20, 2025\", \"Dividend\": \"0.595\", \"Type\": NaN, \"Payment Date\": \"Mar 10, 2025\", \"Yield\": \"1.37%\"}}"
+    },
+    {
+        "id": "7055683d-f95f-4fcf-a49c-6c859ef7ca92",
+        "sourcename": "investing.com_dividends",
+        "uploaded_at": "2025-02-20T18:32:17.668193",
+        "raw_data": "{\"metadata\": {\"column_names\": [\"placeholder\", \"Company\", \"Ex-Dividend Date\", \"Dividend\", \"Type\", \"Payment Date\", \"Yield\"], \"dtypes\": {\"placeholder\": \"object\", \"Company\": \"object\", \"Ex-Dividend Date\": \"object\", \"Dividend\": \"object\", \"Type\": \"object\", \"Payment Date\": \"object\", \"Yield\": \"object\"}}, \"data\": {\"placeholder\": NaN, \"Company\": \"Finning International\\u00a0(FINGF)\", \"Ex-Dividend Date\": \"Feb 20, 2025\", \"Dividend\": \"0.1924896\", \"Type\": NaN, \"Payment Date\": \"Mar 06, 2025\", \"Yield\": \"2.48%\"}}"
+    },
+    {
+        "id": "d5f6acfa-21d5-45f2-82f9-4f98cbe693cb",
+        "sourcename": "investing.com_dividends",
+        "uploaded_at": "2025-02-20T18:32:17.668217",
+        "raw_data": "{\"metadata\": {\"column_names\": [\"placeholder\", \"Company\", \"Ex-Dividend Date\", \"Dividend\", \"Type\", \"Payment Date\", \"Yield\"], \"dtypes\": {\"placeholder\": \"object\", \"Company\": \"object\", \"Ex-Dividend Date\": \"object\", \"Dividend\": \"object\", \"Type\": \"object\", \"Payment Date\": \"object\", \"Yield\": \"object\"}}, \"data\": {\"placeholder\": NaN, \"Company\": \"Regional Management\\u00a0(RM)\", \"Ex-Dividend Date\": \"Feb 20, 2025\", \"Dividend\": \"0.3\", \"Type\": NaN, \"Payment Date\": \"Mar 13, 2025\", \"Yield\": \"3.31%\"}}"
+    },
+    {
+        "id": "51abe1e9-b553-490d-b368-c2da2296a505",
+        "sourcename": "investing.com_dividends",
+        "uploaded_at": "2025-02-20T18:32:17.668241",
+        "raw_data": "{\"metadata\": {\"column_names\": [\"placeholder\", \"Company\", \"Ex-Dividend Date\", \"Dividend\", \"Type\", \"Payment Date\", \"Yield\"], \"dtypes\": {\"placeholder\": \"object\", \"Company\": \"object\", \"Ex-Dividend Date\": \"object\", \"Dividend\": \"object\", \"Type\": \"object\", \"Payment Date\": \"object\", \"Yield\": \"object\"}}, \"data\": {\"placeholder\": NaN, \"Company\": \"Southside\\u00a0(SBSI)\", \"Ex-Dividend Date\": \"Feb 20, 2025\", \"Dividend\": \"0.36\", \"Type\": NaN, \"Payment Date\": \"Mar 06, 2025\", \"Yield\": \"4.60%\"}}"
+    },
+    {
+        "id": "0895631c-b2c1-468f-9524-6ca3b37880f9",
+        "sourcename": "investing.com_dividends",
+        "uploaded_at": "2025-02-20T18:32:17.668265",
+        "raw_data": "{\"metadata\": {\"column_names\": [\"placeholder\", \"Company\", \"Ex-Dividend Date\", \"Dividend\", \"Type\", \"Payment Date\", \"Yield\"], \"dtypes\": {\"placeholder\": \"object\", \"Company\": \"object\", \"Ex-Dividend Date\": \"object\", \"Dividend\": \"object\", \"Type\": \"object\", \"Payment Date\": \"object\", \"Yield\": \"object\"}}, \"data\": {\"placeholder\": NaN, \"Company\": \"Berkshire Hills Bancorp\\u00a0(BHLB)\", \"Ex-Dividend Date\": \"Feb 20, 2025\", \"Dividend\": \"0.18\", \"Type\": NaN, \"Payment Date\": \"Mar 06, 2025\", \"Yield\": \"2.45%\"}}"
+    },
+    {
+        "id": "b875f3d3-e02e-44fe-8c18-35690bc658a3",
+        "sourcename": "investing.com_dividends",
+        "uploaded_at": "2025-02-20T18:32:17.668289",
+        "raw_data": "{\"metadata\": {\"column_names\": [\"placeholder\", \"Company\", \"Ex-Dividend Date\", \"Dividend\", \"Type\", \"Payment Date\", \"Yield\"], \"dtypes\": {\"placeholder\": \"object\", \"Company\": \"object\", \"Ex-Dividend Date\": \"object\", \"Dividend\": \"object\", \"Type\": \"object\", \"Payment Date\": \"object\", \"Yield\": \"object\"}}, \"data\": {\"placeholder\": NaN, \"Company\": \"DWS Municipal\\u00a0(KTF)\", \"Ex-Dividend Date\": \"Feb 20, 2025\", \"Dividend\": \"0.061\", \"Type\": NaN, \"Payment Date\": \"Feb 28, 2025\", \"Yield\": \"7.60%\"}}"
+    },
+    {
+        "id": "f52232ff-1fb4-4aad-b94e-d54416f3328f",
+        "sourcename": "investing.com_dividends",
+        "uploaded_at": "2025-02-20T18:32:17.668313",
+        "raw_data": "{\"metadata\": {\"column_names\": [\"placeholder\", \"Company\", \"Ex-Dividend Date\", \"Dividend\", \"Type\", \"Payment Date\", \"Yield\"], \"dtypes\": {\"placeholder\": \"object\", \"Company\": \"object\", \"Ex-Dividend Date\": \"object\", \"Dividend\": \"object\", \"Type\": \"object\", \"Payment Date\": \"object\", \"Yield\": \"object\"}}, \"data\": {\"placeholder\": NaN, \"Company\": \"Globe Telecom ADR\\u00a0(GTMEY)\", \"Ex-Dividend Date\": \"Feb 20, 2025\", \"Dividend\": \"0.253278\", \"Type\": NaN, \"Payment Date\": \"Mar 24, 2025\", \"Yield\": \"3.25%\"}}"
+    },
+    {
+        "id": "d8c8d6c5-8e85-4985-a89c-afdcdc6096f4",
+        "sourcename": "investing.com_dividends",
+        "uploaded_at": "2025-02-20T18:32:17.668336",
+        "raw_data": "{\"metadata\": {\"column_names\": [\"placeholder\", \"Company\", \"Ex-Dividend Date\", \"Dividend\", \"Type\", \"Payment Date\", \"Yield\"], \"dtypes\": {\"placeholder\": \"object\", \"Company\": \"object\", \"Ex-Dividend Date\": \"object\", \"Dividend\": \"object\", \"Type\": \"object\", \"Payment Date\": \"object\", \"Yield\": \"object\"}}, \"data\": {\"placeholder\": NaN, \"Company\": \"AudioCodes\\u00a0(AUDC)\", \"Ex-Dividend Date\": \"Feb 20, 2025\", \"Dividend\": \"0.18\", \"Type\": NaN, \"Payment Date\": \"Mar 06, 2025\", \"Yield\": \"3.06%\"}}"
+    }
+]
